@@ -1,4 +1,4 @@
-org: geraldocolchado
+org: jesephburgos
 service: api-vision-artificial
 
 provider:
@@ -7,7 +7,7 @@ provider:
   memorySize: 1024
   timeout: 20
   iam:
-    role: arn:aws:iam::178398338251:role/LabRole
+    role: arn:aws:iam::246946388956:role/LabRole
 
 functions:
   listar:
